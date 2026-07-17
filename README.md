@@ -4,21 +4,21 @@ A Facebook-inspired social media platform built with React — sign up, post upd
 
 ## Live Demo
 
-🔗 **[Add your deployed link here after deploying to Vercel or Netlify]**
-
-> Not deployed yet? Run `npm run build` and deploy the `dist/` folder to [Vercel](https://vercel.com) or [Netlify](https://netlify.com) — both offer free static hosting with drag-and-drop or GitHub integration.
+🔗 [SocialApp Live Demo](https://social-app-ayesha-zaman-ld68.vercel.app)
 
 ## Screenshots
 
-> Add screenshots to a `/screenshots` folder in the repo and update the paths below once you've run the app locally.
+### Feed Page
+![Feed Page](screenshots/feed.png)
 
-| Feed Page | Create Post |
-|---|---|
-| `screenshots/feed.png` | `screenshots/create-post.png` |
+### Create Post
+![Create Post](screenshots/create-post.png)
 
-| Profile Page | Dashboard |
-|---|---|
-| `screenshots/profile.png` | `screenshots/dashboard.png` |
+### Profile Page
+![Profile Page](screenshots/profile.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
 ## Tech Stack
 
