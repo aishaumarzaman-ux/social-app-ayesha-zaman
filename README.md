@@ -6,6 +6,10 @@ A Facebook-inspired social media platform built with React — sign up, post upd
 
 🔗 [SocialApp Live Demo](https://social-app-ayesha-zaman-ld68.vercel.app)
 
+## Demo Video
+
+Watch the walkthrough here: [SocialApp Demo](https://www.loom.com/share/13226d37617b4c43b551499b2f78bc4d)
+
 ## Screenshots
 
 ### Feed Page
